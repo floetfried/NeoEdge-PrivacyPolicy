@@ -1,0 +1,23 @@
+Privacy Policy for NeoEdge
+
+This privacy policy explains how the "NeoEdge" app handles user data. Protecting your privacy is our core focus, which is why the app is designed to function completely independently and without any data collection.
+
+1. No Data Collection and No Tracking
+
+This app does not collect, store, process, or share any personal data. There are absolutely no third-party analytics tools, ad networks, or other trackers integrated into the code.
+
+2. No Unnecessary Permissions
+
+The app does not require an active internet connection for its core functionality—the procedural calculation and rendering of live wallpaper effects. At no point is data sent from the device to external servers.
+
+3. Transparent Premium Model
+
+The app is offered on a "buy once, keep forever" principle. There are no hidden costs, no in-app purchases, and no subscriptions that would require the collection of account data or the creation of a user profile within the app.
+
+4. Contact
+
+If you have any questions regarding this privacy policy or the app, please feel free to contact me:
+
+Manuel Huebner
+
+Nuremberg, Germany
